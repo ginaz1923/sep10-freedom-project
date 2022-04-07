@@ -1,0 +1,12 @@
+.topic {
+    display: grid;
+    grid-template-columns: repeat (3, minmax,(20px,50px));
+    grid-temaple-row: repeat (3,repeat 2, 20px);
+    border: 10px solid black;
+}
+
+Colors: Dark Turquoise #5AA398
+Light Teal: #78F0DE
+Pale Orange: #F0B875
+Dark Blue: #404EA3
+Light 
