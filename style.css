@@ -5,8 +5,12 @@
     border: 10px solid black;
 }
 
-Colors: Dark Turquoise #5AA398
-Light Teal: #78F0DE
-Pale Orange: #F0B875
-Dark Blue: #404EA3
-Light 
+.head {
+    backgruond-color:#F0B875
+}
+
+/*Colors: Dark Turquoise #5AA398*/
+/*Light Teal: #78F0DE*/
+/*Pale Orange: #F0B875*/
+/*Dark Blue: #404EA3*/
+/*Light Blue: #697DF0*/
