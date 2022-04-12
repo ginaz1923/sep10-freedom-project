@@ -1,13 +1,15 @@
 .topic {
-    border: 10px solid black;
+    border: 5px solid black;
     background-color:#78F0DE;
     font-family:'Roboto Mono';
+    grid-template-column: 1;
+    grid-template-row: 1;
 }
  .part-a {
-     border: 10 px solid black;
-     border-radius: ;
-     grid-template-column: 1;
-     grid-template-row: 1;
+     border: 5px solid black;
+     grid-template-column: 2;
+     grid-template-row: 2;
+     background-color: #697DF0;
      
  }
 
