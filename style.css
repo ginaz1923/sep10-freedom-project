@@ -20,7 +20,10 @@
     grid-template-row: 20% 20% 20% 20% 20%;
     
 }
-
+ 
+ .sh {
+     margin: 10px 10px 10px 10px;
+ }
 /*Colors: Dark Turquoise #5AA398*/
 /*Light Teal: #78F0DE*/
 /*Pale Orange: #F0B875*/
