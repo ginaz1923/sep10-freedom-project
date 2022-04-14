@@ -5,6 +5,7 @@
     display: grid;
     grid-template-column: 1;
     grid-template-row: 1;
+    padding: 5px 10px 5px 10px;
 }
  .part-a {
      display: grid;
@@ -14,6 +15,7 @@
      background-color: #697DF0;
      margin: 10px 0px 10px 0px;
      font-family: 'Roboto Mono';
+     padding: 5px 10px 5px 10px;
      
  }
 
@@ -29,6 +31,8 @@
      margin: 10px 0px 10px 0px;
      border: 5px solid black;
      font-family: 'Roboto Mono';
+     background-color: #5AA398 ;
+     padding: 5px 10px 5px 10px;
  }
 /*Colors: Dark Turquoise #5AA398*/
 /*Light Teal: #78F0DE*/
