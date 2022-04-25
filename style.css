@@ -2,15 +2,22 @@
     border: 5px solid #0c3236;
     background-color:#78F0DE;
     font-family:'Roboto Mono';
-    display: grid;
-    padding: 5px 10px 5px 10px;
-    color: #0c3236;
+    grid-column-start: 1;
+    padding: 5px 10px 0px 10px;
+    color: #0c3236; 
 }
 
+ .sh {
+     border: 5px solid #0c3236;
+     font-family: 'Roboto Mono';
+     background-color: #5AA398 ;
+     padding: 5px 10px 5px 10px;
+     color: #0c3236;
+ }
+ 
  .part-a  {
      border: 5px solid #0c3236;
      background-color: #66c3cc;
-     margin: 10px 0px 10px 0px;
      font-family: 'Roboto Mono';
      padding: 5px 10px 5px 10px;
      color: #0c3236;
@@ -21,16 +28,23 @@
 .head {
     font-family: 'Roboto Mono';
     color: #0c3236;
-    
+    display: grid;
+    grid-template-columns: 50%;
+    grid-template-rows:50%
 }
  
- .sh {
-     margin: 10px 0px 10px 0px;
+
+ .part-b {
      border: 5px solid #0c3236;
+     background-color: #66c3cc;
+     margin: 0px 0px 10px 0px;
      font-family: 'Roboto Mono';
-     background-color: #5AA398 ;
      padding: 5px 10px 5px 10px;
      color: #0c3236;
+ }
+ 
+ .img {
+     grid-column-start:2;
  }
 /*Colors: Dark Turquoise #5AA398*/
 /*Light Teal: #78F0DE*/
