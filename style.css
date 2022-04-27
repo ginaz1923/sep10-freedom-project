@@ -2,7 +2,6 @@
     border: 5px solid #0c3236;
     background-color:#78F0DE;
     font-family:'Roboto Mono';
-    /*grid-column-start: 1;*/
     padding: 5px 10px 0px 10px;
     color: #0c3236; 
 }
@@ -63,14 +62,7 @@
     border-radius:5px;
     margin: 35px; 400px; 10px; 10px;
 }
-.img2{
-    height: auto;
-    width: 400px;
-    border: 5px solid #0c3236;
-    border-radius: 5px;
-    /*float: right;*/
-    
-}
+
 .paint {
     float:right;
     height:auto;
