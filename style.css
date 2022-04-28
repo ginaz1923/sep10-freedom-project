@@ -2,7 +2,8 @@
     border: 5px solid #0c3236;
     background-color:#78F0DE;
     font-family:'Roboto Mono';
-    padding: 5px 10px 0px 10px;
+    font-size: 15px;
+    padding: 10px 10px 0px 10px;
     color: #0c3236; 
 }
 
@@ -16,7 +17,7 @@
  
  .part-a  {
      border: 5px solid #0c3236;
-     background-color: #66c3cc;
+     background-color: #F0B875;
      font-family: 'Roboto Mono';
      padding: 5px 10px 5px 10px;
      color: #0c3236;
@@ -48,6 +49,7 @@
     width: 100px;
     border: 5px solid #0c3236;
     border-radius: 5px;
+    float: right;
 }
 
 .pl {
@@ -55,13 +57,13 @@
     margin: 100px 700px 10px 10px;
 }
 
-.img1 {
-    height: auto;
+.ip {
     width: 400px;
+    height: auto;
     border: 5px solid #0c3236;
-    border-radius:5px;
-    margin: 35px; 40px; 10px; 2000px;
+    border-radius: 5px;
     float: right;
+    margin: 100px 100px 200px 200px;
 }
 
 .paint {
@@ -74,6 +76,9 @@
     
 }
 
+.pg {
+    margin-left: 500px;
+}
 
 /*Colors: Dark Turquoise #5AA398*/
 /*Light Teal: #78F0DE*/
