@@ -1,65 +1,34 @@
 .topic {
-    font-family:'Roboto Mono';
     font-size: 15px;
-    padding: 10px 10px 0px 10px;
-    color: #0c3236; 
+    padding: 10px 10px 10px 10px;
+    color: #2d1280;
+    font-family:'Roboto Mono';
 }
-
- .sh {
-     font-family: 'Roboto Mono';
-     background-color: #5AA398 ;
-     padding: 5px 10px 5px 10px;
-     color: #0c3236;
- }
  
  .part-a  {
-     /*background-color: #F0B875;*/
-     font-family: 'Roboto Mono';
      padding: 5px 10px 5px 10px;
-     color: #0c3236;
-     
+     color: #2d1280;
+     font-family:'Roboto Mono';
      
  }
  
-.head {
-    font-family: 'Roboto Mono';
-    color: #0c3236;
-}
- 
-
+ .technology {
+     font-family: 'Roboto Mono';
+     padding: 5px 10px 5px 10px;
+     color: #2d1280;
+ }
  .part-b {
-     /*background-color: #66c3cc;*/
      margin: 0px 0px 10px 0px;
      font-family: 'Roboto Mono';
      padding: 5px 10px 5px 10px;
-     color: #0c3236;
+     color: #2d1280;
  }
-
-.img {
-    margin: auto;
-    height: auto;
-    width: 100px;
-}
-
-
-
-
-.paint {
-    height:auto;
-    width: 700px;
-    margin: 100px 400px 10px 10px;
-    
-    
-}
-
-
 
 
 .body {
     background-color:#78F0DE;
+    font-family:'Roboto Mono';
 }
-/*Colors: Dark Turquoise #5AA398*/
-/*Light Teal: #78F0DE*/
-/*Pale Orange: #F0B875*/
-/*Dark Blue: #404EA3*/
-/*Light Blue: #697DF0*/
+
+/*Royal blue: #2d1280*/
+Pale Blue/Purple: #ddcfff
