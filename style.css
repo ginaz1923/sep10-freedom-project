@@ -1,34 +1,66 @@
-.topic {
+topic {
     font-size: 15px;
     padding: 10px 10px 10px 10px;
-    color: #2d1280;
+    color: #ddcfff;
     font-family:'Roboto Mono';
+    margin: 10px 10px 10px 10px;
+    border: 5px solid #ddcfff ;
 }
- 
+ .topic {
+    font-size: 15px;
+    padding: 10px 10px 10px 10px;
+    color: #ddcfff;
+    font-family:'Roboto Mono';
+    margin: 10px 10px 10px 10px;
+    border: 5px solid #ddcfff ; 
+ }
  .part-a  {
-     padding: 5px 10px 5px 10px;
-     color: #2d1280;
-     font-family:'Roboto Mono';
-     
+    font-size: 15px;
+    padding: 10px 10px 10px 10px;
+    color: #ddcfff;
+    font-family:'Roboto Mono';
+    margin: 10px 10px 10px 10px;
+    border: 5px solid #ddcfff ;
  }
  
- .technology {
-     font-family: 'Roboto Mono';
-     padding: 5px 10px 5px 10px;
-     color: #2d1280;
+ .grid {
+    display: grid;
+    grid-template-columns: repeat(4, minmax(100px, 150px));
+    grid-template-rows: repeat(2, 100px);
+    justify-content: center;
+    border: 5px ridge #ddcfff;
+    grid-gap: 5px;
  }
+ 
+ .logos {
+    height: auto;
+    width: 150px;
+    border-radius: 50px;
+    margin: auto;
+    border:2px ridge #ddcfff;
+ }
+ 
  .part-b {
-     margin: 0px 0px 10px 0px;
-     font-family: 'Roboto Mono';
-     padding: 5px 10px 5px 10px;
-     color: #2d1280;
+    font-size: 15px;
+    padding: 10px 10px 10px 10px;
+    color: #ddcfff;
+    font-family:'Roboto Mono';
+    margin: 10px 10px 10px 0px;
+    border: 5px solid #ddcfff ;
  }
 
-
-.body {
-    background-color:#78F0DE;
-    font-family:'Roboto Mono';
+img {
+    height: auto;
+    width: 500px;
+    margin: auto;
+    /*border: solid 5px #ddcfff;*/
+    /*border-radius: 10px;*/
+    padding: 10px 10px 10px 10px;
 }
 
+
+body {
+    background-color:#000a69;
+}
 /*Royal blue: #2d1280*/
-Pale Blue/Purple: #ddcfff
+/*Pale Blue/Purple: #ddcfff*/
