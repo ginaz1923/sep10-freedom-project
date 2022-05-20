@@ -28,16 +28,16 @@ topic {
     grid-template-columns: repeat(4, minmax(100px, 150px));
     grid-template-rows: repeat(2, 100px);
     justify-content: center;
-    border: 5px ridge #ddcfff;
-    grid-gap: 5px;
+    /*border: 5px ridge #ddcfff;*/
+    grid-gap: 25px;
  }
  
  .logos {
     height: auto;
     width: 150px;
     border-radius: 50px;
-    margin: auto;
     border:2px ridge #ddcfff;
+    margin: 10px 10px 10px 10px;
  }
  
  .part-b {
@@ -48,6 +48,10 @@ topic {
     margin: 10px 10px 10px 0px;
     border: 5px solid #ddcfff ;
  }
+.gallery {
+    border: 5px solid #ddcfff;
+}
+
 
 img {
     height: auto;
