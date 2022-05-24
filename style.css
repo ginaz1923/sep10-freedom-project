@@ -23,12 +23,16 @@ topic {
     border: 5px solid #ddcfff ;
  }
  
+ .accordion {
+     color: #000a69;
+     border: 5px solid #ddcfff;
+ }
+ 
  .grid {
     display: grid;
     grid-template-columns: repeat(4, minmax(100px, 150px));
     grid-template-rows: repeat(2, 100px);
     justify-content: center;
-    /*border: 5px ridge #ddcfff;*/
     grid-gap: 25px;
  }
  
@@ -48,6 +52,11 @@ topic {
     margin: 10px 10px 10px 0px;
     border: 5px solid #ddcfff ;
  }
+ 
+ href {
+    padding: 5px 5px 5px 5px;
+ }
+ 
 .gallery {
     border: 5px solid #ddcfff;
 }
